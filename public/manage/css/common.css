@@ -111,7 +111,10 @@ a:active {
 .lt_aside .nav .child a {
   padding-left: 60px;
 }
-
+.current{
+  background-color: #1D1F21;
+  border-left: 3px solid #006699;
+}
 /* lt_aside 结束  */
 
 
