@@ -128,11 +128,9 @@ text-align:center;
 }
 .lt_container{
 
-  height:1000px;
-  background: pink;
+
   padding-top:20px;
-  padding-left:10px;
-  padding-right:10px;
+  
 }
 .modal-backdrop.in{
   opacity:none;
