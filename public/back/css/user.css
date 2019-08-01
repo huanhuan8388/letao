@@ -1,0 +1,21 @@
+.user-table{
+  padding-left:20px;
+  padding-right:20px;
+
+}
+
+.user-table table {
+  table-layout:fixed;
+  word-break:break-all;
+}
+.user-table table td{
+ 
+  text-align: center;
+}
+.user-table .table>tbody>tr>td{
+  
+  vertical-align: middle;
+}
+.lt-page{
+  float:right;
+}
