@@ -19,7 +19,7 @@ if(location.href.indexOf("login.html") === -1) {
     type:"get",
     url:"/employee/checkRootLogin",
     success:function(info){
-    console.log(info);
+  
     if(info.success){
       //不用做什么
       console.log("已经登录");

@@ -135,3 +135,18 @@ text-align:center;
 .modal-backdrop.in{
   opacity:none;
 }
+.user-table{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.user-table table{
+  table-layout:fixed;
+  word-break:break-all;
+}
+.user-table table td,
+th{
+  text-align: center;
+}
+.user-table button{
+ margin-bottom:20px;
+}
